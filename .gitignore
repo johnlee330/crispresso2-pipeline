@@ -1,0 +1,9 @@
+*.fastq.gz
+*.fastq
+*.bam
+*.bai
+CRISPResso_on_*/
+CRISPRessoBatch_on_*/
+*.log
+*.png
+*.pdf
