@@ -28,6 +28,7 @@ Workflow is broken into two stages: the library prep (wet-lab) and the indel ana
   - Reverse overhang: 5’ GACTGGAGTTCAGACGTGTGCTCTTCCGATCT-[region specific sequence. keep in mind this is reverse complement]. e.g targeting exon 4 in TP53: Forward strand sequence is gtctgtgacttgca. If I made a reverse PCR1 primer, I would order a primer that looks like GACTGGAGTTCAGACGTGTGCTCTTCCGATCT-**tgcaagtcacagac**.
 ### PCR amplification strategy
 <img width="954" height="167" alt="image" src="https://github.com/user-attachments/assets/27bb5394-ed15-4489-b8f4-09343164ba19" />
+
 - This workflow employs a two-PCR strategy. PCR1 functions to amplify the target locus, while also attaching PCR2 adapters
 ### Sequencing approach (paired-end, read length, depth recommendations)
 - Any wet lab considerations (primer design, amplicon size constraints)
