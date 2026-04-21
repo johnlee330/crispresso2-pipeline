@@ -48,3 +48,8 @@ Paste your example run command here
 Table of all flags with defaults and descriptions
 
 ## Citation / Acknowledgements
+CRISPResso2
+Clement K, Rees H, Canver MC, Gehrke JM, Farouni R, Hsu JY, Cole MA, Liu DR, Joung JK, Bauer DE, Pinello L.
+CRISPResso2 provides accurate and rapid genome editing sequence analysis.
+Nat Biotechnol. 2019 Mar; 37(3):224-226. doi: 10.1038/s41587-019-0032-3. PubMed PMID: 30809026.
+
