@@ -15,6 +15,7 @@ Workflow is broken into two stages: the library prep (wet-lab) and the indel ana
 ### Library prep / PCR amplification strategy
 ### Sequencing approach (paired-end, read length, depth recommendations)
 - Any wet lab considerations (primer design, amplicon size constraints)
+<img width="954" height="167" alt="image" src="https://github.com/user-attachments/assets/27bb5394-ed15-4489-b8f4-09343164ba19" />
 
 ## Computational Pipeline
 - Dependencies / installation (CRISPResso2, conda env)
