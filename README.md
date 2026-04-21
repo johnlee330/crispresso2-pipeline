@@ -49,6 +49,6 @@ Table of all flags with defaults and descriptions
 
 ## Citation / Acknowledgements
 Clement K, Rees H, Canver MC, Gehrke JM, Farouni R, Hsu JY, Cole MA, Liu DR, Joung JK, Bauer DE, Pinello L.
-CRISPResso2 provides accurate and rapid genome editing sequence analysis.
+[CRISPResso2 provides accurate and rapid genome editing sequence analysis](https://www.nature.com/articles/s41587-019-0032-3.epdf?author_access_token=Q0sIH5EGHbMWmvsrf0dBeNRgN0jAjWel9jnR3ZoTv0P6oBSfcxCRashPKCCv3FwJo8GkAiG6kTESLDT-McGX9xaWjqUIyGzPmy2Dcp38b314cngGo7RqbpZ3B-sVml78HDYIQ3ByDZIHjNgiVNjSXw%3D%3D).
 Nat Biotechnol. 2019 Mar; 37(3):224-226. doi: 10.1038/s41587-019-0032-3. PubMed PMID: 30809026.
 
