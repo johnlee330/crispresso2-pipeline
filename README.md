@@ -34,7 +34,6 @@ Workflow is broken into two stages: the library prep (wet-lab) and the indel ana
 - Amplicon of ~200bp will allow for overlap via paired-end sequencing, using Nextseq 1K/2K 300 cycle P1.
 - NOTE: **This is a incredibly low-diversity library.** Nextseq is a 2 channel sequencer, so we need to aid the calibration by spiking in a lot of PhiX. We shoot for 50% of the sequencing pool.
 - Read depth: High coverage is easy to achieve since the target is one amplicon. This ultimately depends on how sensitive you choose to be, but due to the massive amount of reads per flow cell(~300M total PE reads, ~150M accounting for PhiX), heavy coverage can be employed.
-  - 
 
 ## Computational Workflow
 - Dependencies
