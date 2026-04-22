@@ -31,7 +31,9 @@ Workflow is broken into two stages: the library prep (wet-lab) and the indel ana
 
 - This workflow employs a two-PCR strategy. PCR1 functions to amplify the target locus, while also attaching PCR2 adapters
 ### Sequencing approach (paired-end, read length, depth recommendations)
-- Any wet lab considerations (primer design, amplicon size constraints)
+- Amplicon of ~200bp will allow for overlap via paired-end sequencing, using Nextseq 1K/2K 300 cycle P1.
+- Read depth: This ultimately depends on how sensitive you choose to be, but due to the massive amount of reads per flow cell(~300M PE reads), heavy coverage can be employed.
+  - 
 
 ## Computational Workflow
 - Dependencies
